@@ -3,7 +3,6 @@ I'm a passionate Python developer.
 
 ## About Me
 - 🌍 **Location:** Germany
-- 💼 **Current Status:** Student
 - 💻 **Favourite Language**: Python
 - 📫 **Discord:** bytesculptor07
 
